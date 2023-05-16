@@ -10,7 +10,7 @@
 
 
 # layout-of-modified-Baugh-Wooley-multiplier-array
-## basic component fulladder with and , fulladder with nand 
+### basic component fulladder with and & fulladder with nand 
 
 ## fulladder with Nand
 ![image](https://github.com/islam-nasser0/Design-and-layout-of-modified-Baugh-Wooley-multiplier-array-/assets/111699435/23487e43-a025-487a-a9c0-bb86762a0c23)
