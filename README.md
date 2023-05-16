@@ -36,7 +36,7 @@
  ### λ= 0.5 µm
 ### Area = 0.3 mm2
 
+## Add the IO cells 
 
+![image](https://github.com/islam-nasser0/Design-and-layout-of-modified-Baugh-Wooley-multiplier-array-/assets/111699435/8bba9dcd-590f-468c-8fcd-1c5e2738376c)
 
-[Islam_akram_osama layout.pdf](https://github.com/islam-nasser0/Design-and-layout-of-modified-Baugh-Wooley-multiplier-array-/files/11483789/Islam_akram_osama.layout.pdf)
-[Islam_akram_osama logic.pdf](https://github.com/islam-nasser0/Design-and-layout-of-modified-Baugh-Wooley-multiplier-array-/files/11483801/Islam_akram_osama.logic.pdf)
